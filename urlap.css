@@ -1,0 +1,47 @@
+form fieldset{
+display:inline-block;
+}
+
+
+.radioButton{
+float:none;
+display:inline;
+margin-right:0.1em;
+width:2em;
+}
+
+form label{
+width:8em;
+margin-right:1em;
+float:left;
+text-align:right;
+display:block;
+}
+
+form input{
+width:15em;
+}
+
+
+#elkuld{
+margin-top:2em;
+float:right;
+}
+
+.hibaOsztaly{
+background-color:#CC6666;
+}
+
+#hibaDiv{
+color:red;
+}
+
+.hibaVisszajelzes{
+visibility:hidden;
+}
+
+.telefontipusHiba{
+    margin-left:1.2em;
+    padding:0.1em;
+    background-color:#CC6666;
+}
